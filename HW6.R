@@ -91,7 +91,7 @@ colnames(df) <-c("PassengerId","Survived")
 
 
 write.csv(df,'titanic_KNN.csv',row.names = F)
-############ End KNN on Titanic ############
+
 
 
 # 2
